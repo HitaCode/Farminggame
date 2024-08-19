@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4f35f059a9915f47ab89199442ca46a, type: 3}
+  m_Name: "H\u1EA1t gi\u1ED1ng c\xE0 chua"
+  m_EditorClassIdentifier: 
+  description: "H\u1EA1t gi\u1ED1ng \u0111\u1EC3 tr\u1ED3ng c\xE0 chua"
+  thumbnail: {fileID: -1277873232, guid: 530f6bfac594413499f421c33f0d74f6, type: 3}
+  gameModel: {fileID: 0}
+  daysToGrow: 9
+  cropToYield: {fileID: 11400000, guid: d4faa0f931f8dda4080282209c2bdba4, type: 2}
+  seedling: {fileID: 5171125609662750623, guid: 1afc5667cb43e2946b532db6441c6268, type: 3}
+  regrowable: 1
+  daysToRegrow: 3

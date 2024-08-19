@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b0e5f402b83e5146a8211ef7a056875, type: 3}
+  m_Name: Tomato Crop
+  m_EditorClassIdentifier: 
+  description: ' The crop the player will harvest first'
+  thumbnail: {fileID: 0}
+  gameModel: {fileID: 8884763267104775222, guid: 8fe3182b8dfe9034b97e9c0328180d5f, type: 3}
